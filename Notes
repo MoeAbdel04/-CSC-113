@@ -1,0 +1,10 @@
+Starting a Task from Scratch with a LLM
+You can "bootstrap" your situation the way you with other topics -- find someone who understands the problem better than you do, and get them to explain it to you.
+You can generally start any new task like this (and as you modify and tweak this process, write it down and share it, along with your prompts!)
+Ask a LLM to explain the problem in general terms. (If it's overly technical, you can go again with changes like "explain like i'm five" or "explain like I'm a high school student".
+Ask the model to come up with a general plan of action
+Take a few of the points from the plan of action (like the first few), and ask the model to explain how to accomplish them.
+Will this always work? No. It's possible for LLMs to get "stuck" on certain parts of a problem.
+And remember, because conversations are limited length, when things are getting too long:
+Ask the model to summarize the conversation so far, then
+Start a new conversation by leading with that summary, and something like "Let's continue to solve this problem."
